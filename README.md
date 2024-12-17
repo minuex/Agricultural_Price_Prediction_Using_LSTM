@@ -1,6 +1,6 @@
-# Agricultural Price Prediction Using LSTM
+# Agricultural Price Prediction Using Transformer
 
-이 프로젝트는 LSTM(Long Short-Term Memory) 모델을 사용하여 농산물 가격을 예측하는 모델을 구현한 Dacon 프로젝트입니다. 시계열 데이터를 활용하여 농산물의 가격 변동을 예측하며, 다양한 특성의 농산물을 대상으로 가격 예측을 진행합니다.
+이 프로젝트는 Transformer을 사용하여 농산물 가격을 예측하는 모델을 구현한 Dacon 프로젝트입니다. 시계열 데이터를 활용하여 농산물의 가격 변동을 예측하며, 다양한 특성의 농산물을 대상으로 가격 예측을 진행합니다.
 
 ## 주요 기능
 
